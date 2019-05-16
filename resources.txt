@@ -1,0 +1,49 @@
+WineSpectator - Technical Details about Wine
+https://www.winespectator.com/drvinny/show/id/5035
+
+ggplot2 title : main, axis and legend titles
+http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles
+
+StackOverflow : Center Plot title in ggplot2
+http://bit.ly/2RDfflb
+
+StackOverflow : How to change legend title in ggplot
+https://stackoverflow.com/questions/14622421/how-to-change-legend-title-in-ggplot
+
+Ordinal Logistic Regression - Model 
+https://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/
+
+Hexadecimal color code chart 
+http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#hexadecimal-color-code-chart
+
+Sweetness of wine - Wikipedia
+https://en.wikipedia.org/wiki/Sweetness_of_wine
+
+Interesting Facts About Sugar Content in Wine | LoveToKnow
+https://wine.lovetoknow.com/wiki/Sugar_Content_in_Wine
+
+Using psych - pairs.panels
+http://www.sthda.com/english/wiki/scatter-plot-matrices-r-base-graphs
+
+Stackoverflow: How to drop columns by name in a data frame 
+http://bit.ly/2GXyrpO
+
+Create a Correlation Matrix in R 
+https://www.r-bloggers.com/create-a-correlation-matrix-in-r/
+
+Routine Analysis of Ingredients in Wine - The Analytical Scientist
+http://bit.ly/2GZA9af
+
+
+UCDavis - Waterhouse Lab
+http://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity
+
+
+Residual Sugar - 
+https://whicherridge.com.au/what-is-residual-sugar-in-wine/
+
+pH Levels in wine -
+http://bit.ly/2RCLIYZ
+
+Napa Valley Register - Acid, pH, wine and food -
+http://bit.ly/2H9uZsu
